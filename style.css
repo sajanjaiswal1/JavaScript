@@ -1,0 +1,15 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.slides{
+    display: flex;
+    overflow-x: hidden;
+}
+#nextbtn{
+    right: 0;
+}
+#prevbtn{
+    left: 0;
+}
